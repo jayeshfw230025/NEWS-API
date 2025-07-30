@@ -1,4 +1,4 @@
-import Navbar from "./Componantes/Navbar"
+import Navbar from "./componantes/Navbar"
 import Newsboard from "./componantes/Newsboard"
 
 
