@@ -1,5 +1,6 @@
 import Navbar from "./Componantes/Navbar"
-import Newsboard from "./Componantes/newsboard"
+import Newsboard from "./componantes/Newsboard"
+
 
 
 
@@ -9,6 +10,7 @@ const App = () => {
     <div>
       <Navbar></Navbar>
       <Newsboard></Newsboard>
+       
       
     </div>
   )
